@@ -1,0 +1,403 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 May 2022 20:10:48 at https://i999bet.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://i999bet.net/ -O1 "C:\Users\vivan\Desktop\projecttrue" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:11:29	Error: 	"Method Not Allowed" (405) at link https://i999bet.net/xmlrpc.php (from https://i999bet.net/)
+20:15:55	Warning: 	Moved Permanently for i999bet.net/robots.txt
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/robots.txt and https://i999bet.net/robots.txt
+20:15:55	Warning: 	Warning moved treated for i999bet.net/robots.txt (real one is https://i999bet.net/robots.txt)
+20:15:55	Warning: 	Moved Permanently for i999bet.net/casino/
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/casino/ and https://i999bet.net/casino/
+20:15:55	Warning: 	File has moved from i999bet.net/casino/ to https://i999bet.net/casino/
+20:15:55	Warning: 	Moved Permanently for i999bet.net/casino/blackjack/
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/casino/blackjack/ and https://i999bet.net/casino/blackjack/
+20:15:55	Warning: 	File has moved from i999bet.net/casino/blackjack/ to https://i999bet.net/casino/blackjack/
+20:15:55	Warning: 	Moved Permanently for i999bet.net/casino/poker/
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/casino/poker/ and https://i999bet.net/casino/poker/
+20:15:55	Warning: 	File has moved from i999bet.net/casino/poker/ to https://i999bet.net/casino/poker/
+20:15:55	Warning: 	Moved Permanently for i999bet.net/casino/baccarat/
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/casino/baccarat/ and https://i999bet.net/casino/baccarat/
+20:15:55	Warning: 	File has moved from i999bet.net/casino/baccarat/ to https://i999bet.net/casino/baccarat/
+20:15:55	Error: 	"Not Found" (404) at link https://i999bet.net/lost-password/ (from https://i999bet.net/)
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=29
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=29 to https://i999bet.net/dang-ky/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=35
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=35 to https://i999bet.net/dang-ky/tai-app-i999/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=22
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=22 to https://i999bet.net/nap-tien/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=24
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=24 to https://i999bet.net/rut-tien/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=26
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=26 to https://i999bet.net/xo-so/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=31
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=31 to https://i999bet.net/the-thao/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=40
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=40 to https://i999bet.net/i999-casino/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=43
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=43 to https://i999bet.net/i999-casino/baccarat/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=45
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=45 to https://i999bet.net/i999-casino/blackjack/
+20:15:55	Warning: 	Moved Permanently for i999bet.net/casino/keno/
+20:15:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/casino/keno/ and https://i999bet.net/casino/keno/
+20:15:55	Warning: 	File has moved from i999bet.net/casino/keno/ to https://i999bet.net/casino/keno/
+20:15:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qh88.vin/wp-content/uploads/2022/02/blackjack-486-1.jpg (from https://i999bet.net/i999-casino/blackjack/)
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=47
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=47 to https://i999bet.net/i999-casino/keno/
+20:15:55	Warning: 	Moved Permanently for https://i999bet.net/?p=51
+20:15:55	Warning: 	File has moved from https://i999bet.net/?p=51 to https://i999bet.net/i999-casino/slots-game/
+20:15:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qh88.vin/wp-content/uploads/2022/02/slots-game-501-1.jpg (from https://i999bet.net/i999-casino/slots-game/)
+20:15:56	Warning: 	Moved Permanently for https://i999bet.net/?p=49
+20:15:56	Warning: 	File has moved from https://i999bet.net/?p=49 to https://i999bet.net/i999-casino/poker/
+20:19:09	Warning: 	Moved Permanently for https://i999bet.net/?p=53
+20:19:09	Warning: 	File has moved from https://i999bet.net/?p=53 to https://i999bet.net/gioi-thieu/
+20:19:14	Warning: 	Moved Permanently for https://i999bet.net/?p=61
+20:19:14	Warning: 	File has moved from https://i999bet.net/?p=61 to https://i999bet.net/lien-he/
+20:19:15	Warning: 	Moved Permanently for https://i999bet.net/?p=55
+20:19:15	Warning: 	File has moved from https://i999bet.net/?p=55 to https://i999bet.net/gioi-thieu/chinh-sach-bao-mat/
+20:19:18	Warning: 	Moved Permanently for https://i999bet.net/?p=57
+20:19:18	Warning: 	File has moved from https://i999bet.net/?p=57 to https://i999bet.net/gioi-thieu/dieu-khoan-su-dung/
+20:19:22	Warning: 	Moved Permanently for https://i999bet.net/?p=59
+20:19:22	Warning: 	File has moved from https://i999bet.net/?p=59 to https://i999bet.net/gioi-thieu/trach-nhiem-nguoi-choi/
+20:22:48	Warning: 	Moved Permanently for https://i999bet.net/category/tin-tuc/page/1/
+20:22:48	Warning: 	File has moved from https://i999bet.net/category/tin-tuc/page/1/ to https://i999bet.net/category/tin-tuc/
+20:22:48	Warning: 	Moved Permanently for https://i999bet.net/?p=931
+20:22:48	Warning: 	File has moved from https://i999bet.net/?p=931 to https://i999bet.net/ku711/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=925
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=925 to https://i999bet.net/bigbom/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=899
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=899 to https://i999bet.net/da-ga-thomo/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=892
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=892 to https://i999bet.net/nbet/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=880
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=880 to https://i999bet.net/nha-cai-dabet/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=873
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=873 to https://i999bet.net/vn138/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=865
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=865 to https://i999bet.net/v9bet/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=856
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=856 to https://i999bet.net/dubai-casino/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=850
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=850 to https://i999bet.net/mega-6-45-1-phut/
+20:22:56	Warning: 	Moved Permanently for https://i999bet.net/?p=843
+20:22:56	Warning: 	File has moved from https://i999bet.net/?p=843 to https://i999bet.net/soi-cau-lo-mien-bac/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=812
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=812 to https://i999bet.net/fabet/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=792
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=792 to https://i999bet.net/nha-cai-bk8/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=781
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=781 to https://i999bet.net/ban-ca-doi-thuong-qh88/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=743
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=743 to https://i999bet.net/link-vao-nha-cai-i999/
+20:31:11	Warning: 	Moved Permanently for i999bet.net/game-rong-ho-vt999-link-tai-game-rong-ho-vt999-ios-moi-nhat-2022/
+20:31:11	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/game-rong-ho-vt999-link-tai-game-rong-ho-vt999-ios-moi-nhat-2022/ and https://i999bet.net/game-rong-ho-vt999-link-tai-game-rong-ho-vt999-ios-moi-nhat-2022/
+20:31:11	Warning: 	File has moved from i999bet.net/game-rong-ho-vt999-link-tai-game-rong-ho-vt999-ios-moi-nhat-2022/ to https://i999bet.net/game-rong-ho-vt999-link-tai-game-rong-ho-vt999-ios-moi-nhat-2022/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=736
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=736 to https://i999bet.net/soi-cau-xsmb-dk8/
+20:31:11	Warning: 	Moved Permanently for https://i999bet.net/?p=719
+20:31:11	Warning: 	File has moved from https://i999bet.net/?p=719 to https://i999bet.net/game-rong-ho-vt999/
+20:31:12	Warning: 	Moved Permanently for i999bet.net/game-baccarat-vt999-link-nha-cai-vt999-tren-pc-mobile-moi-nhat/
+20:31:12	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/game-baccarat-vt999-link-nha-cai-vt999-tren-pc-mobile-moi-nhat/ and https://i999bet.net/game-baccarat-vt999-link-nha-cai-vt999-tren-pc-mobile-moi-nhat/
+20:31:12	Warning: 	File has moved from i999bet.net/game-baccarat-vt999-link-nha-cai-vt999-tren-pc-mobile-moi-nhat/ to https://i999bet.net/game-baccarat-vt999-link-nha-cai-vt999-tren-pc-mobile-moi-nhat/
+20:31:12	Warning: 	Moved Permanently for https://i999bet.net/?p=712
+20:31:12	Warning: 	File has moved from https://i999bet.net/?p=712 to https://i999bet.net/game-baccarat-vt999/
+20:31:12	Warning: 	Moved Permanently for https://i999bet.net/?p=703
+20:31:12	Warning: 	File has moved from https://i999bet.net/?p=703 to https://i999bet.net/game-tai-xiu-vt999-huong-dan-va-nhung-thong-tin-khi-choi-tai-xiu-vt999/
+20:31:12	Warning: 	Moved Permanently for https://i999bet.net/?p=694
+20:31:12	Warning: 	File has moved from https://i999bet.net/?p=694 to https://i999bet.net/soi-cau-xsmb-b29-kinh-nghiem-soi-cau-xo-so-mien-bac-ti-le-thang-90/
+20:31:12	Warning: 	Moved Permanently for https://i999bet.net/?p=688
+20:31:12	Warning: 	File has moved from https://i999bet.net/?p=688 to https://i999bet.net/soi-cau-xsmb/
+20:33:54	Warning: 	Moved Permanently for https://i999bet.net/author/ys0012/page/1/
+20:33:54	Warning: 	File has moved from https://i999bet.net/author/ys0012/page/1/ to https://i999bet.net/author/ys0012/
+20:33:54	Warning: 	Moved Permanently for https://i999bet.net/?p=837
+20:33:54	Warning: 	File has moved from https://i999bet.net/?p=837 to https://i999bet.net/dan-de-hom-nay/
+20:33:54	Warning: 	Moved Permanently for https://i999bet.net/?p=680
+20:33:54	Warning: 	File has moved from https://i999bet.net/?p=680 to https://i999bet.net/sicbo-bk8/
+20:33:54	Warning: 	Moved Permanently for https://i999bet.net/?p=670
+20:33:54	Warning: 	File has moved from https://i999bet.net/?p=670 to https://i999bet.net/ban-ca-sv88/
+20:33:55	Warning: 	Moved Permanently for i999bet.net/tai-app-w88-app-cho-he-dieu-hanh-android-ios-phien-ban-moi-nhat/
+20:33:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/tai-app-w88-app-cho-he-dieu-hanh-android-ios-phien-ban-moi-nhat/ and https://i999bet.net/tai-app-w88-app-cho-he-dieu-hanh-android-ios-phien-ban-moi-nhat/
+20:33:55	Warning: 	File has moved from i999bet.net/tai-app-w88-app-cho-he-dieu-hanh-android-ios-phien-ban-moi-nhat/ to https://i999bet.net/tai-app-w88-app-cho-he-dieu-hanh-android-ios-phien-ban-moi-nhat/
+20:33:55	Warning: 	Moved Permanently for i999bet.net/the-thao-jbo-tong-hop-link-vao-nha-cai-jbo-tren-pc-mobile-nam-2022/
+20:33:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/the-thao-jbo-tong-hop-link-vao-nha-cai-jbo-tren-pc-mobile-nam-2022/ and https://i999bet.net/the-thao-jbo-tong-hop-link-vao-nha-cai-jbo-tren-pc-mobile-nam-2022/
+20:33:55	Warning: 	File has moved from i999bet.net/the-thao-jbo-tong-hop-link-vao-nha-cai-jbo-tren-pc-mobile-nam-2022/ to https://i999bet.net/the-thao-jbo-tong-hop-link-vao-nha-cai-jbo-tren-pc-mobile-nam-2022/
+20:33:55	Warning: 	Moved Permanently for https://i999bet.net/?p=661
+20:33:55	Warning: 	File has moved from https://i999bet.net/?p=661 to https://i999bet.net/tai-app-w88/
+20:33:55	Warning: 	Moved Permanently for i999bet.net/k188-san-choi-dinh-cao-game-xoc-dia-doi-thuong-k188-moi-nhat-2022/
+20:33:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/k188-san-choi-dinh-cao-game-xoc-dia-doi-thuong-k188-moi-nhat-2022/ and https://i999bet.net/k188-san-choi-dinh-cao-game-xoc-dia-doi-thuong-k188-moi-nhat-2022/
+20:33:55	Warning: 	File has moved from i999bet.net/k188-san-choi-dinh-cao-game-xoc-dia-doi-thuong-k188-moi-nhat-2022/ to https://i999bet.net/k188-san-choi-dinh-cao-game-xoc-dia-doi-thuong-k188-moi-nhat-2022/
+20:33:55	Warning: 	Moved Permanently for https://i999bet.net/?p=652
+20:33:55	Warning: 	File has moved from https://i999bet.net/?p=652 to https://i999bet.net/the-thao-jbo/
+20:33:55	Warning: 	Moved Permanently for i999bet.net/dang-ky-k188-tong-hop-link-pc-mobile-moi-nhat-nam-2022/
+20:33:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/dang-ky-k188-tong-hop-link-pc-mobile-moi-nhat-nam-2022/ and https://i999bet.net/dang-ky-k188-tong-hop-link-pc-mobile-moi-nhat-nam-2022/
+20:33:55	Warning: 	File has moved from i999bet.net/dang-ky-k188-tong-hop-link-pc-mobile-moi-nhat-nam-2022/ to https://i999bet.net/dang-ky-k188-tong-hop-link-pc-mobile-moi-nhat-nam-2022/
+20:33:55	Warning: 	Moved Permanently for i999bet.net/cach-xoa-tai-khoan-ku-va-tai-khoan-123b-vinh-vien-ai-cung-phai-biet/
+20:33:55	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/cach-xoa-tai-khoan-ku-va-tai-khoan-123b-vinh-vien-ai-cung-phai-biet/ and https://i999bet.net/cach-xoa-tai-khoan-ku-va-tai-khoan-123b-vinh-vien-ai-cung-phai-biet/
+20:33:55	Warning: 	File has moved from i999bet.net/cach-xoa-tai-khoan-ku-va-tai-khoan-123b-vinh-vien-ai-cung-phai-biet/ to https://i999bet.net/cach-xoa-tai-khoan-ku-va-tai-khoan-123b-vinh-vien-ai-cung-phai-biet/
+20:33:55	Warning: 	Moved Permanently for https://i999bet.net/?p=638
+20:33:55	Warning: 	File has moved from https://i999bet.net/?p=638 to https://i999bet.net/k188/
+20:33:55	Warning: 	Moved Permanently for https://i999bet.net/?p=629
+20:33:55	Warning: 	File has moved from https://i999bet.net/?p=629 to https://i999bet.net/cach-xoa-tai-khoan-ku/
+20:33:56	Warning: 	Moved Permanently for https://i999bet.net/?p=615
+20:33:56	Warning: 	File has moved from https://i999bet.net/?p=615 to https://i999bet.net/game-xoc-dia-doi-thuong-k188/
+20:33:56	Warning: 	Moved Permanently for i999bet.net/game-tai-xiu-i999-game-doi-tien-thuong-so-1-viet-nam/
+20:33:56	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/game-tai-xiu-i999-game-doi-tien-thuong-so-1-viet-nam/ and https://i999bet.net/game-tai-xiu-i999-game-doi-tien-thuong-so-1-viet-nam/
+20:33:56	Warning: 	File has moved from i999bet.net/game-tai-xiu-i999-game-doi-tien-thuong-so-1-viet-nam/ to https://i999bet.net/game-tai-xiu-i999-game-doi-tien-thuong-so-1-viet-nam/
+20:33:56	Warning: 	Moved Permanently for https://i999bet.net/?p=607
+20:33:56	Warning: 	File has moved from https://i999bet.net/?p=607 to https://i999bet.net/game-baccarat-qh88-gioi-thieu-chi-tiet-ve-game-baccarat-hot-nhat-2022/
+20:33:56	Warning: 	Moved Permanently for i999bet.net/?p=607&preview=true
+20:33:56	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=607&preview=true and https://i999bet.net/?p=607&preview=true
+20:33:56	Warning: 	File has moved from i999bet.net/?p=607&preview=true to https://i999bet.net/?p=607&preview=true
+20:33:56	Warning: 	Moved Permanently for https://i999bet.net/?p=599
+20:33:56	Warning: 	File has moved from https://i999bet.net/?p=599 to https://i999bet.net/game-baccarat-red88-chia-se-nhung-meo-dinh-vao-tien-hieu-qua-nhat/
+20:33:56	Warning: 	Moved Permanently for i999bet.net/?p=599&preview=true
+20:33:56	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=599&preview=true and https://i999bet.net/?p=599&preview=true
+20:33:56	Warning: 	File has moved from i999bet.net/?p=599&preview=true to https://i999bet.net/?p=599&preview=true
+20:33:56	Warning: 	Moved Permanently for i999bet.net/game-rong-ho-i999-kinh-nghiem-khi-choi-cho-nhung-ai-chua-biet/
+20:33:56	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/game-rong-ho-i999-kinh-nghiem-khi-choi-cho-nhung-ai-chua-biet/ and https://i999bet.net/game-rong-ho-i999-kinh-nghiem-khi-choi-cho-nhung-ai-chua-biet/
+20:33:56	Warning: 	File has moved from i999bet.net/game-rong-ho-i999-kinh-nghiem-khi-choi-cho-nhung-ai-chua-biet/ to https://i999bet.net/game-rong-ho-i999-kinh-nghiem-khi-choi-cho-nhung-ai-chua-biet/
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=594
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=594 to https://i999bet.net/game-rong-ho-red88-huong-dan-cach-choi-don-gian-va-de-hieu-nhat/
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=587
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=587 to https://i999bet.net/game-rong-ho-bmwbet-duoc-nhieu-nguoi-yeu-thich-nhat-2022/
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=579
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=579 to https://i999bet.net/game-baccarat-f8bet-co-hot-ma-hap-dan-nguoi-choi-den-vay/
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=570
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=570 to https://i999bet.net/benvip-tong-hop-link-truy-cap-nha-cai-benvip-moi-nhat-nam-2022/
+20:35:31	Warning: 	Moved Permanently for i999bet.net/?p=570&preview=true
+20:35:31	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=570&preview=true and https://i999bet.net/?p=570&preview=true
+20:35:31	Warning: 	File has moved from i999bet.net/?p=570&preview=true to https://i999bet.net/?p=570&preview=true
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=562
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=562 to https://i999bet.net/huong-dan-choi-poker/
+20:35:31	Warning: 	Moved Permanently for i999bet.net/?p=556&preview=true
+20:35:31	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=556&preview=true and https://i999bet.net/?p=556&preview=true
+20:35:31	Warning: 	File has moved from i999bet.net/?p=556&preview=true to https://i999bet.net/?p=556&preview=true
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=549
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=549 to https://i999bet.net/game-tai-xiu-b29-choi-game-cuc-de-kiem-tien-cuc-nhanh-nam-2022/
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=543
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=543 to https://i999bet.net/nha-cai-b29-tong-hop-link-vao-nha-cai-b29-moi-nhat-2022/
+20:35:31	Warning: 	Moved Permanently for i999bet.net/?p=543&preview=true
+20:35:31	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=543&preview=true and https://i999bet.net/?p=543&preview=true
+20:35:31	Warning: 	File has moved from i999bet.net/?p=543&preview=true to https://i999bet.net/?p=543&preview=true
+20:35:31	Warning: 	Moved Permanently for https://i999bet.net/?p=539
+20:35:31	Warning: 	File has moved from https://i999bet.net/?p=539 to https://i999bet.net/game-bau-cua-tom-ca-online-zm88-va-nhung-thong-tin-can-biet/
+20:35:31	Warning: 	Moved Permanently for i999bet.net/?p=539&preview=true
+20:35:31	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=539&preview=true and https://i999bet.net/?p=539&preview=true
+20:35:31	Warning: 	File has moved from i999bet.net/?p=539&preview=true to https://i999bet.net/?p=539&preview=true
+20:35:34	Warning: 	Moved Permanently for i999bet.net/blackjack-la-gi-tim-hieu-chi-tiet-tu-a-z-cach-choi-blackjack-2022/
+20:35:34	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/blackjack-la-gi-tim-hieu-chi-tiet-tu-a-z-cach-choi-blackjack-2022/ and https://i999bet.net/blackjack-la-gi-tim-hieu-chi-tiet-tu-a-z-cach-choi-blackjack-2022/
+20:35:34	Warning: 	File has moved from i999bet.net/blackjack-la-gi-tim-hieu-chi-tiet-tu-a-z-cach-choi-blackjack-2022/ to https://i999bet.net/blackjack-la-gi-tim-hieu-chi-tiet-tu-a-z-cach-choi-blackjack-2022/
+20:35:34	Warning: 	Moved Permanently for https://i999bet.net/?p=534
+20:35:34	Warning: 	File has moved from https://i999bet.net/?p=534 to https://i999bet.net/game-phom-online-zm88-huong-dan-chi-tiet-va-nhung-thong-tin-can-biet/
+20:35:34	Warning: 	Moved Permanently for i999bet.net/?p=534&preview=true
+20:35:34	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=534&preview=true and https://i999bet.net/?p=534&preview=true
+20:35:34	Warning: 	File has moved from i999bet.net/?p=534&preview=true to https://i999bet.net/?p=534&preview=true
+20:36:16	Warning: 	Moved Permanently for i999bet.net/2022/03/17/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/2022/03/17/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/ and https://i999bet.net/2022/03/17/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	File has moved from i999bet.net/2022/03/17/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/ to https://i999bet.net/2022/03/17/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	Moved Permanently for i999bet.net/2022/03/17/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/2022/03/17/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/ and https://i999bet.net/2022/03/17/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	File has moved from i999bet.net/2022/03/17/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/ to https://i999bet.net/2022/03/17/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	Moved Permanently for https://i999bet.net/?p=522
+20:36:16	Warning: 	File has moved from https://i999bet.net/?p=522 to https://i999bet.net/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/
+20:36:16	Warning: 	Moved Permanently for i999bet.net/?p=522&preview=true
+20:36:16	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=522&preview=true and https://i999bet.net/?p=522&preview=true
+20:36:16	Warning: 	File has moved from i999bet.net/?p=522&preview=true to https://i999bet.net/?p=522&preview=true
+20:36:33	Warning: 	Moved Permanently for https://i999bet.net/?p=308
+20:36:33	Warning: 	File has moved from https://i999bet.net/?p=308 to https://i999bet.net/game-baccarat-i999-va-nhung-huong-dan-choi-moi-nhat/
+20:36:33	Warning: 	Moved Permanently for i999bet.net/?p=308&preview=true
+20:36:33	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=308&preview=true and https://i999bet.net/?p=308&preview=true
+20:36:33	Warning: 	File has moved from i999bet.net/?p=308&preview=true to https://i999bet.net/?p=308&preview=true
+20:36:33	Warning: 	Moved Permanently for https://i999bet.net/?p=297
+20:36:33	Warning: 	File has moved from https://i999bet.net/?p=297 to https://i999bet.net/game-xoc-dia-doi-thuong-i999-tuyet-dinh-cuoc-thu-nao-cung-nen-kham-pha/
+20:36:33	Warning: 	Moved Permanently for i999bet.net/?p=297&preview=true
+20:36:33	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=297&preview=true and https://i999bet.net/?p=297&preview=true
+20:36:33	Warning: 	File has moved from i999bet.net/?p=297&preview=true to https://i999bet.net/?p=297&preview=true
+20:36:33	Warning: 	Moved Permanently for https://i999bet.net/?p=288
+20:36:33	Warning: 	File has moved from https://i999bet.net/?p=288 to https://i999bet.net/nhung-dieu-ban-can-biet-khi-choi-game-keno-fm88/
+20:36:33	Warning: 	Moved Permanently for i999bet.net/?p=288&preview=true
+20:36:33	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=288&preview=true and https://i999bet.net/?p=288&preview=true
+20:36:33	Warning: 	File has moved from i999bet.net/?p=288&preview=true to https://i999bet.net/?p=288&preview=true
+20:36:33	Warning: 	Moved Permanently for https://i999bet.net/?p=280
+20:36:33	Warning: 	File has moved from https://i999bet.net/?p=280 to https://i999bet.net/huong-dan-choi-poker-i999-don-gian-nhat/
+20:36:33	Warning: 	Moved Permanently for i999bet.net/?p=280&preview=true
+20:36:33	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=280&preview=true and https://i999bet.net/?p=280&preview=true
+20:36:33	Warning: 	File has moved from i999bet.net/?p=280&preview=true to https://i999bet.net/?p=280&preview=true
+20:37:17	Warning: 	Moved Permanently for https://i999bet.net/?p=263
+20:37:17	Warning: 	File has moved from https://i999bet.net/?p=263 to https://i999bet.net/game-bau-cua-tom-ca-i999-nha-cai-uy-tin-so-1-viet-nam/
+20:37:17	Warning: 	Moved Permanently for i999bet.net/?p=263&preview=true
+20:37:17	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=263&preview=true and https://i999bet.net/?p=263&preview=true
+20:37:17	Warning: 	File has moved from i999bet.net/?p=263&preview=true to https://i999bet.net/?p=263&preview=true
+20:37:17	Warning: 	Moved Permanently for https://i999bet.net/?p=256
+20:37:17	Warning: 	File has moved from https://i999bet.net/?p=256 to https://i999bet.net/game-phom-online-i999-nhung-kinh-nghiem-ma-nguoi-choi-nen-biet/
+20:37:17	Warning: 	Moved Permanently for i999bet.net/?p=256&preview=true
+20:37:17	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=256&preview=true and https://i999bet.net/?p=256&preview=true
+20:37:17	Warning: 	File has moved from i999bet.net/?p=256&preview=true to https://i999bet.net/?p=256&preview=true
+20:37:18	Warning: 	Moved Permanently for https://i999bet.net/?p=245
+20:37:18	Warning: 	File has moved from https://i999bet.net/?p=245 to https://i999bet.net/game-no-hu-i999-tro-choi-dem-ve-giai-thuong-cuc-lon/
+20:37:18	Warning: 	Moved Permanently for i999bet.net/?p=245&preview=true
+20:37:18	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=245&preview=true and https://i999bet.net/?p=245&preview=true
+20:37:18	Warning: 	File has moved from i999bet.net/?p=245&preview=true to https://i999bet.net/?p=245&preview=true
+20:37:19	Warning: 	Moved Permanently for https://i999bet.net/?p=238
+20:37:19	Warning: 	File has moved from https://i999bet.net/?p=238 to https://i999bet.net/game-ban-ca-doi-thuong-i999-huong-dan-choi-tu-a-z/
+20:37:19	Warning: 	Moved Permanently for i999bet.net/?p=238&preview=true
+20:37:19	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=238&preview=true and https://i999bet.net/?p=238&preview=true
+20:37:19	Warning: 	File has moved from i999bet.net/?p=238&preview=true to https://i999bet.net/?p=238&preview=true
+20:38:02	Warning: 	Moved Permanently for https://i999bet.net/?p=230
+20:38:02	Warning: 	File has moved from https://i999bet.net/?p=230 to https://i999bet.net/game-da-ga-i999-huong-dan-cach-choi-chuan-nhat-de-anh-em-vao-bo/
+20:38:02	Warning: 	Moved Permanently for i999bet.net/?p=230&preview=true
+20:38:02	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=230&preview=true and https://i999bet.net/?p=230&preview=true
+20:38:02	Warning: 	File has moved from i999bet.net/?p=230&preview=true to https://i999bet.net/?p=230&preview=true
+20:38:02	Warning: 	Moved Permanently for https://i999bet.net/?p=495
+20:38:02	Warning: 	File has moved from https://i999bet.net/?p=495 to https://i999bet.net/game-xoc-dia-b52-huong-dan-choi-xoc-dia-doi-thuong-cuc-hay/
+20:38:02	Warning: 	Moved Permanently for i999bet.net/?p=495&preview=true
+20:38:02	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=495&preview=true and https://i999bet.net/?p=495&preview=true
+20:38:02	Warning: 	File has moved from i999bet.net/?p=495&preview=true to https://i999bet.net/?p=495&preview=true
+20:38:03	Warning: 	Moved Permanently for https://i999bet.net/?p=489
+20:38:03	Warning: 	File has moved from https://i999bet.net/?p=489 to https://i999bet.net/link-dang-ky-i999-moi-nhat-2022-khong-mot-ai-co-the-chan-ban-duoc/
+20:38:03	Warning: 	Moved Permanently for i999bet.net/?p=489&preview=true
+20:38:03	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=489&preview=true and https://i999bet.net/?p=489&preview=true
+20:38:03	Warning: 	File has moved from i999bet.net/?p=489&preview=true to https://i999bet.net/?p=489&preview=true
+20:38:03	Warning: 	Moved Permanently for https://i999bet.net/?p=478
+20:38:03	Warning: 	File has moved from https://i999bet.net/?p=478 to https://i999bet.net/8kbet-link-vao-nha-cai-moi-nhat-thoa-dam-me-dem-qua-ve/
+20:38:03	Warning: 	Moved Permanently for i999bet.net/?p=478&preview=true
+20:38:03	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=478&preview=true and https://i999bet.net/?p=478&preview=true
+20:38:03	Warning: 	File has moved from i999bet.net/?p=478&preview=true to https://i999bet.net/?p=478&preview=true
+20:38:48	Warning: 	Moved Permanently for https://i999bet.net/?p=469
+20:38:48	Warning: 	File has moved from https://i999bet.net/?p=469 to https://i999bet.net/game-da-ga-may88-kinh-nghiem-choi-da-ga-nha-cai-may88-luon-thang/
+20:38:48	Warning: 	Moved Permanently for i999bet.net/?p=469&preview=true
+20:38:48	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=469&preview=true and https://i999bet.net/?p=469&preview=true
+20:38:48	Warning: 	File has moved from i999bet.net/?p=469&preview=true to https://i999bet.net/?p=469&preview=true
+20:38:48	Warning: 	Moved Permanently for https://i999bet.net/?p=459
+20:38:48	Warning: 	File has moved from https://i999bet.net/?p=459 to https://i999bet.net/game-no-hu-may88-moi-ra-mat-thi-truong-2022-cuc-ki-hap-dan/
+20:38:48	Warning: 	Moved Permanently for i999bet.net/?p=459&preview=true
+20:38:48	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=459&preview=true and https://i999bet.net/?p=459&preview=true
+20:38:48	Warning: 	File has moved from i999bet.net/?p=459&preview=true to https://i999bet.net/?p=459&preview=true
+20:38:49	Warning: 	Moved Permanently for https://i999bet.net/?p=449
+20:38:49	Warning: 	File has moved from https://i999bet.net/?p=449 to https://i999bet.net/game-xoc-dia-doi-thuong-huong-dan-choi-cuc-chi-tiet-va-de-hieu/
+20:38:49	Warning: 	Moved Permanently for i999bet.net/?p=449&preview=true
+20:38:49	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=449&preview=true and https://i999bet.net/?p=449&preview=true
+20:38:49	Warning: 	File has moved from i999bet.net/?p=449&preview=true to https://i999bet.net/?p=449&preview=true
+20:38:49	Warning: 	Moved Permanently for https://i999bet.net/?p=444
+20:38:49	Warning: 	File has moved from https://i999bet.net/?p=444 to https://i999bet.net/game-keno-1126bet-huong-dan-dat-cuoc-doi-thuong-hap-dan/
+20:38:49	Warning: 	Moved Permanently for i999bet.net/?p=444&preview=true
+20:38:49	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=444&preview=true and https://i999bet.net/?p=444&preview=true
+20:38:49	Warning: 	File has moved from i999bet.net/?p=444&preview=true to https://i999bet.net/?p=444&preview=true
+20:39:35	Warning: 	Moved Permanently for https://i999bet.net/?p=436
+20:39:35	Warning: 	File has moved from https://i999bet.net/?p=436 to https://i999bet.net/game-mau-binh-online-1126bet-huong-dan-choi-cho-nhung-ai-chua-biet/
+20:39:35	Warning: 	Moved Permanently for i999bet.net/?p=436&preview=true
+20:39:35	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=436&preview=true and https://i999bet.net/?p=436&preview=true
+20:39:35	Warning: 	File has moved from i999bet.net/?p=436&preview=true to https://i999bet.net/?p=436&preview=true
+20:39:35	Warning: 	Moved Permanently for https://i999bet.net/?p=426
+20:39:35	Warning: 	File has moved from https://i999bet.net/?p=426 to https://i999bet.net/sicbo-jun88-kinh-nghiem-choi-hieu-qua-va-don-gian-nhat-nam-2022/
+20:39:35	Warning: 	Moved Permanently for i999bet.net/?p=426&preview=true
+20:39:35	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=426&preview=true and https://i999bet.net/?p=426&preview=true
+20:39:35	Warning: 	File has moved from i999bet.net/?p=426&preview=true to https://i999bet.net/?p=426&preview=true
+20:39:35	Warning: 	Moved Permanently for https://i999bet.net/?p=417
+20:39:35	Warning: 	File has moved from https://i999bet.net/?p=417 to https://i999bet.net/cach-choi-lotto-bet-tren-ku-casino-moi-nhat-2022-cho-anh-em-kiem-lua/
+20:39:35	Warning: 	Moved Permanently for i999bet.net/?p=417&preview=true
+20:39:35	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=417&preview=true and https://i999bet.net/?p=417&preview=true
+20:39:35	Warning: 	File has moved from i999bet.net/?p=417&preview=true to https://i999bet.net/?p=417&preview=true
+20:39:36	Warning: 	Moved Permanently for https://i999bet.net/?p=607%26preview=true
+20:39:36	Warning: 	File has moved from https://i999bet.net/?p=607%26preview=true to https://i999bet.net/game-baccarat-qh88-gioi-thieu-chi-tiet-ve-game-baccarat-hot-nhat-2022/
+20:39:36	Warning: 	Moved Permanently for https://i999bet.net/?p=599%26preview=true
+20:39:36	Warning: 	File has moved from https://i999bet.net/?p=599%26preview=true to https://i999bet.net/game-baccarat-red88-chia-se-nhung-meo-dinh-vao-tien-hieu-qua-nhat/
+20:39:36	Warning: 	Moved Permanently for https://i999bet.net/?p=407
+20:39:36	Warning: 	File has moved from https://i999bet.net/?p=407 to https://i999bet.net/cach-xoa-tai-khoan-w88-huong-dan-don-gian-nhat-chinh-xac-nhat/
+20:39:36	Warning: 	Moved Permanently for i999bet.net/?p=407&preview=true
+20:39:36	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=407&preview=true and https://i999bet.net/?p=407&preview=true
+20:39:36	Warning: 	File has moved from i999bet.net/?p=407&preview=true to https://i999bet.net/?p=407&preview=true
+20:40:21	Warning: 	Moved Permanently for https://i999bet.net/?p=403
+20:40:21	Warning: 	File has moved from https://i999bet.net/?p=403 to https://i999bet.net/i999-khuyen-mai-nguoi-chien-thang-giai-dien-tu-tien-thuong-den-22019k/
+20:40:21	Warning: 	Moved Permanently for i999bet.net/?p=403&preview=true
+20:40:21	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=403&preview=true and https://i999bet.net/?p=403&preview=true
+20:40:21	Warning: 	File has moved from i999bet.net/?p=403&preview=true to https://i999bet.net/?p=403&preview=true
+20:40:21	Warning: 	Moved Permanently for https://i999bet.net/?p=393
+20:40:21	Warning: 	File has moved from https://i999bet.net/?p=393 to https://i999bet.net/xoa-tai-khoan-ku-cach-xoa-vinh-vien-tai-khoan-kubet-ma-khong-phai-ai-cung-biet/
+20:40:21	Warning: 	Moved Permanently for i999bet.net/?p=393&preview=true
+20:40:21	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=393&preview=true and https://i999bet.net/?p=393&preview=true
+20:40:21	Warning: 	File has moved from i999bet.net/?p=393&preview=true to https://i999bet.net/?p=393&preview=true
+20:40:22	Warning: 	Moved Permanently for https://i999bet.net/?p=383
+20:40:22	Warning: 	File has moved from https://i999bet.net/?p=383 to https://i999bet.net/khuyen-mai-i999-dang-ky-tai-khoan-nhan-ngay-50k100k/
+20:40:22	Warning: 	Moved Permanently for i999bet.net/?p=383&preview=true
+20:40:22	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=383&preview=true and https://i999bet.net/?p=383&preview=true
+20:40:22	Warning: 	File has moved from i999bet.net/?p=383&preview=true to https://i999bet.net/?p=383&preview=true
+20:40:22	Warning: 	Moved Permanently for https://i999bet.net/?p=371
+20:40:22	Warning: 	File has moved from https://i999bet.net/?p=371 to https://i999bet.net/game-phom-online-zbet-chia-se-kinh-nghiem-choi-luon-thang/
+20:40:22	Warning: 	Moved Permanently for https://i999bet.net/?p=349
+20:40:22	Warning: 	File has moved from https://i999bet.net/?p=349 to https://i999bet.net/soi-cau-xsmb-i999-hay-ban-nen-thu-de-mang-tien-ve-cho-me/
+20:40:23	Warning: 	Moved Permanently for i999bet.net/?p=349&preview=true
+20:40:23	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=349&preview=true and https://i999bet.net/?p=349&preview=true
+20:40:23	Warning: 	File has moved from i999bet.net/?p=349&preview=true to https://i999bet.net/?p=349&preview=true
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=570%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=570%26preview=true to https://i999bet.net/benvip-tong-hop-link-truy-cap-nha-cai-benvip-moi-nhat-nam-2022/
+20:41:09	Error: 	"Not Found" (404) at link https://i999bet.net/?p=556%26preview=true (from i999bet.net/?p=556&preview=true)
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=543%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=543%26preview=true to https://i999bet.net/nha-cai-b29-tong-hop-link-vao-nha-cai-b29-moi-nhat-2022/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=539%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=539%26preview=true to https://i999bet.net/game-bau-cua-tom-ca-online-zm88-va-nhung-thong-tin-can-biet/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=534%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=534%26preview=true to https://i999bet.net/game-phom-online-zm88-huong-dan-chi-tiet-va-nhung-thong-tin-can-biet/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=522%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=522%26preview=true to https://i999bet.net/kc6-link-vao-nha-cai-kc6-khong-bi-chan-moi-nhat-2022/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=513
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=513 to https://i999bet.net/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/
+20:41:09	Warning: 	Moved Permanently for i999bet.net/?p=513&preview=true
+20:41:09	Warning: 	Redirected link is identical because of 'URL Hack' option: i999bet.net/?p=513&preview=true and https://i999bet.net/?p=513&preview=true
+20:41:09	Warning: 	File has moved from i999bet.net/?p=513&preview=true to https://i999bet.net/?p=513&preview=true
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=308%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=308%26preview=true to https://i999bet.net/game-baccarat-i999-va-nhung-huong-dan-choi-moi-nhat/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=297%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=297%26preview=true to https://i999bet.net/game-xoc-dia-doi-thuong-i999-tuyet-dinh-cuoc-thu-nao-cung-nen-kham-pha/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=288%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=288%26preview=true to https://i999bet.net/nhung-dieu-ban-can-biet-khi-choi-game-keno-fm88/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=280%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=280%26preview=true to https://i999bet.net/huong-dan-choi-poker-i999-don-gian-nhat/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=263%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=263%26preview=true to https://i999bet.net/game-bau-cua-tom-ca-i999-nha-cai-uy-tin-so-1-viet-nam/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=256%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=256%26preview=true to https://i999bet.net/game-phom-online-i999-nhung-kinh-nghiem-ma-nguoi-choi-nen-biet/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=245%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=245%26preview=true to https://i999bet.net/game-no-hu-i999-tro-choi-dem-ve-giai-thuong-cuc-lon/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=238%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=238%26preview=true to https://i999bet.net/game-ban-ca-doi-thuong-i999-huong-dan-choi-tu-a-z/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=230%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=230%26preview=true to https://i999bet.net/game-da-ga-i999-huong-dan-cach-choi-chuan-nhat-de-anh-em-vao-bo/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=495%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=495%26preview=true to https://i999bet.net/game-xoc-dia-b52-huong-dan-choi-xoc-dia-doi-thuong-cuc-hay/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=489%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=489%26preview=true to https://i999bet.net/link-dang-ky-i999-moi-nhat-2022-khong-mot-ai-co-the-chan-ban-duoc/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=478%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=478%26preview=true to https://i999bet.net/8kbet-link-vao-nha-cai-moi-nhat-thoa-dam-me-dem-qua-ve/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=469%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=469%26preview=true to https://i999bet.net/game-da-ga-may88-kinh-nghiem-choi-da-ga-nha-cai-may88-luon-thang/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=459%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=459%26preview=true to https://i999bet.net/game-no-hu-may88-moi-ra-mat-thi-truong-2022-cuc-ki-hap-dan/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=449%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=449%26preview=true to https://i999bet.net/game-xoc-dia-doi-thuong-huong-dan-choi-cuc-chi-tiet-va-de-hieu/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=444%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=444%26preview=true to https://i999bet.net/game-keno-1126bet-huong-dan-dat-cuoc-doi-thuong-hap-dan/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=436%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=436%26preview=true to https://i999bet.net/game-mau-binh-online-1126bet-huong-dan-choi-cho-nhung-ai-chua-biet/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=426%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=426%26preview=true to https://i999bet.net/sicbo-jun88-kinh-nghiem-choi-hieu-qua-va-don-gian-nhat-nam-2022/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=417%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=417%26preview=true to https://i999bet.net/cach-choi-lotto-bet-tren-ku-casino-moi-nhat-2022-cho-anh-em-kiem-lua/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=407%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=407%26preview=true to https://i999bet.net/cach-xoa-tai-khoan-w88-huong-dan-don-gian-nhat-chinh-xac-nhat/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=403%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=403%26preview=true to https://i999bet.net/i999-khuyen-mai-nguoi-chien-thang-giai-dien-tu-tien-thuong-den-22019k/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=393%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=393%26preview=true to https://i999bet.net/xoa-tai-khoan-ku-cach-xoa-vinh-vien-tai-khoan-kubet-ma-khong-phai-ai-cung-biet/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=383%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=383%26preview=true to https://i999bet.net/khuyen-mai-i999-dang-ky-tai-khoan-nhan-ngay-50k100k/
+20:41:09	Warning: 	Moved Permanently for https://i999bet.net/?p=349%26preview=true
+20:41:09	Warning: 	File has moved from https://i999bet.net/?p=349%26preview=true to https://i999bet.net/soi-cau-xsmb-i999-hay-ban-nen-thu-de-mang-tien-ve-cho-me/
+20:41:12	Warning: 	Moved Permanently for https://i999bet.net/?p=513%26preview=true
+20:41:12	Warning: 	File has moved from https://i999bet.net/?p=513%26preview=true to https://i999bet.net/hr99-link-vao-nha-cai-hr99-khong-bi-chan-moi-nhat-2022/
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 24 seconds : 794 links scanned, 620 files written (35730482 bytes overall) [26770017 bytes received at 14676 bytes/sec], 13460073 bytes transferred using HTTP compression in 116 files, ratio 28%, 6.8 requests per connection
+(3 errors, 389 warnings, 0 messages)
